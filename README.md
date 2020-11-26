@@ -1,2 +1,1 @@
-# boilerplate-gatsby-page-trans
-Created with CodeSandbox
+gatsby-route-transitions-framer-motion
